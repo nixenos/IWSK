@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4nZWZuIEqRYIQxw4wI6FIMSrtzppNuUSdRRBLJmFpuv71q38Lgyi2RuuQHYvuPFvtAdLLoJIQ+Ar5q8Y2CW7fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nixen\\Projects\\IWSK\\IWSK\\CW1\\IWSK_CW1\\IWSK_CW1\\IWSK_CW1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nixen\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\nixen\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\nixen\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\6.0.0\\runtime.linux-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\nixen\\.nuget\\packages\\runtime.native.system.io.ports\\6.0.0\\runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\nixen\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\nixen\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\6.0.0\\runtime.osx-x64.runtime.native.system.io.ports.6.0.0.nupkg.sha512",
+    "C:\\Users\\nixen\\.nuget\\packages\\system.io.ports\\6.0.0\\system.io.ports.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
